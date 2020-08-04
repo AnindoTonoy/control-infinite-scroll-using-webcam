@@ -8,7 +8,7 @@ pakages used:
 2. Numpy
 3. PyAutoGUI
 
-## Installation of python pakages in terminal (for windows)
+## Installation of python packages in terminal (for windows)
 
 OpenCV
 
